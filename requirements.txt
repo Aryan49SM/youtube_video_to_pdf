@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+opencv-python-headless
+scikit-image
+fpdf
+Pillow
+youtube_transcript_api
