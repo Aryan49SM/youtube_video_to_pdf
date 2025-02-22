@@ -13,7 +13,7 @@ This repository provides a simple way to extract key frames from YouTube videos 
    cd youtube_video_to_pdf
    ```
 
-3. **Create and Activate a Virtual Environment**
+2. **Create and Activate a Virtual Environment**
   
   ```bash
     python -m venv venv
@@ -21,7 +21,12 @@ This repository provides a simple way to extract key frames from YouTube videos 
     source venv/bin/activate    # On macOS/Linux:
    ```
 
-4. **Run the application:**
+3. **Install the Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+5. **Run the application:**
 
    ```bash
    streamlit run app.py
