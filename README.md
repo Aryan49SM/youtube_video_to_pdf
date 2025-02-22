@@ -26,7 +26,7 @@ This repository provides a simple way to extract key frames from YouTube videos 
    pip install -r requirements.txt
    ```
    
-5. **Run the application:**
+4. **Run the application:**
 
    ```bash
    streamlit run app.py
